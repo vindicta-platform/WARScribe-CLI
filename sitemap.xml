@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://vindicta-platform.github.io/WARScribe-CLI/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://vindicta-platform.github.io/WARScribe-CLI/SETUP/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://vindicta-platform.github.io/WARScribe-CLI/commands/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://vindicta-platform.github.io/WARScribe-CLI/contributing/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://vindicta-platform.github.io/WARScribe-CLI/getting-started/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://vindicta-platform.github.io/WARScribe-CLI/adr/000-template/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://vindicta-platform.github.io/WARScribe-CLI/adr/001-python-language/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://vindicta-platform.github.io/WARScribe-CLI/adr/002-precommit-required/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+</urlset>
