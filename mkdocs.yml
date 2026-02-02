@@ -1,0 +1,20 @@
+site_name: WARScribe CLI
+site_description: Command-line tools for WARScribe notation
+site_url: https://vindicta-platform.github.io/WARScribe-CLI/
+
+repo_name: vindicta-platform/WARScribe-CLI
+repo_url: https://github.com/vindicta-platform/WARScribe-CLI
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: orange
+      accent: red
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Commands: commands.md
+  - Contributing: contributing.md
+plugins:
+  - search
