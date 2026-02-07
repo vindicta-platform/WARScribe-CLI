@@ -1,26 +1,65 @@
-# Roadmap
+# WARScribe-CLI Roadmap
 
-## Vision
-The definitive command-line tool for competitive list management.
+> **Vision**: Command-line tools for WARScribe transcript processing
+> **Status**: Utility (P3)
+> **Last Updated**: 2026-02-03
 
 ---
 
-## v0.1.0 - Foundation (Current)
-- [x] Initialize repository
-- [ ] Typer-based CLI scaffold
-- [ ] Basic validation command
-- [ ] JSON export
+## v1.0 Target: Q2 2026
 
-## v0.2.0 - Full Toolset
-- [ ] Stats command
-- [ ] Diff command
-- [ ] Batch mode
+### Mission Statement
+Provide command-line tools for WARScribe transcript creation, validation, and analysis — enabling offline and scripted workflows.
 
-## v1.0.0 - Production
-- [ ] Shell completion
-- [ ] Plugin system
+---
+
+## Milestone Timeline
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Apr 2026          May 2026          Jun 2026                   │
+│  ─────────────────────────────────────────────────────────────  │
+│  [v0.1.0]          [v0.2.0]          [v1.0.0]                   │
+│  Foundation        Core Tools        Full CLI                   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## v0.1.0 — Foundation (Target: Apr 2026)
+
+### Deliverables
+- [ ] CLI framework (Click or Typer)
+- [ ] Transcript validation command
+- [ ] Format conversion
+
+---
+
+## v0.2.0 — Core Tools (Target: May 2026)
+
+### Deliverables
+- [ ] `warscribe validate <file>` — Validate transcript
+- [ ] `warscribe convert --from ros --to json` — Format conversion
+- [ ] `warscribe stats <file>` — Extract game statistics
+- [ ] `warscribe diff <a> <b>` — Compare transcripts
+
+---
+
+## v1.0.0 — Full CLI (Target: Jun 2026)
+
+### Deliverables
+- [ ] Interactive game recording
+- [ ] Batch processing
+- [ ] Integration with WARScribe-Parser
 - [ ] PyPI publication
 
 ---
 
-*Last updated: 2026-02-01*
+## Dependencies
+
+- WARScribe-Core (core library)
+- WARScribe-Parser (input formats)
+
+---
+
+*Maintained by: Vindicta Platform Team*
