@@ -17,6 +17,8 @@ System stability and technical debt resolution take precedence over new feature 
 ### V. Vanilla-Forward & Modern Tooling
 Favor vanilla JavaScript (ES2020+) and modern build systems (Vite 7+) over heavy frameworks. Maintain compatibility with Firebase SDK v10+ and leverage GitHub Actions for all CI/CD pipelines.
 
+----
+
 ## Quality Gates
 
 1. **Linting & Formatting**: All commits must pass pre-commit hooks and linting checks.
